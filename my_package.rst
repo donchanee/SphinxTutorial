@@ -8,6 +8,5 @@ mplot3D
 
     Modules
     -------
-    .. autofunction:: io.open
     .. automodule:: mplot3D.mplot3d
         :members:   
